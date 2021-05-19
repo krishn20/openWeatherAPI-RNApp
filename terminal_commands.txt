@@ -1,0 +1,20 @@
+1. npm install expo-cli --global
+(To install Expo, globally).
+
+2. expo --version
+
+3. expo help
+
+4. expo init weather-app
+(and after that select the workflow (mostly "blank") for starting and initializing your project just like git init).
+
+5. cd to your code directory
+
+6. code . 
+(This will open the code directory directly in VSCode).
+
+7. npm start
+(Will start your app on the desktop, from then onwards you can open it in an emulator or on your own phone).
+
+8. expo install expo-location
+(To install the expo-location package).
